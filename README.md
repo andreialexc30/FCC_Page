@@ -1,0 +1,1 @@
+The 3/5 challenge from freeCodeCamp's Responsive Web Design curriculum. This project has been made using HTML&basic CSS.
